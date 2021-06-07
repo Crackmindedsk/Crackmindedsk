@@ -15,7 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Contact me : [![Contact](https://img.shields.io/badge/Email-xplendo@gmail.com-orange?labelColor=yellow)](mailto:shakumbhar@gmail.com)
+Contact me : [![Contact](https://img.shields.io/badge/Email-shakumbhar@gmail.com-orange?labelColor=yellow)](mailto:shakumbhar@gmail.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/sharlene-kumbhar-59078118b/" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sharlene Kumbhar" height="30"
+            width="40" /></a>
+    <a href="https://codeforces.com/profile/shakumbhar" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shakumbhar" height="30"
+            width="40" /></a>
+    <a href="https://www.hackerrank.com/sharyuhkumbhar" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sharyuhkumbhar" height="30"
+            width="40" /></a>
+    <a href="https://leetcode.com/Sharlene_Kumbhar/" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Sharlene_Kumbhar" height="30"
+            width="40" /></a>
+    <a href="https://developers.google.com/profile/u/100251123362248964527" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledevelopers.svg" alt="Sharlene Kumbhar" height="30"
+            width="40" /></a>
+  
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Crackmindedsk)
 
