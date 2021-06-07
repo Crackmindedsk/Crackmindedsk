@@ -32,7 +32,10 @@ Contact me : [![Contact](https://img.shields.io/badge/Email-shakumbhar@gmail.com
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Sharlene_Kumbhar" height="30"
             width="40" /></a>
     <a href="https://developers.google.com/profile/u/100251123362248964527" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledevelopers.svg" alt="Sharlene Kumbhar" height="30"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Sharlene Kumbhar" height="30"
+            width="40" /></a>
+    <a href="shakumbhar@gmail.com" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Sharlene Kumbhar" height="30"
             width="40" /></a>
   
 </p>
