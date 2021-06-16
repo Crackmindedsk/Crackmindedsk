@@ -84,3 +84,6 @@ In my IV sem of B.Tech. Computer Science & Information Technology Degree. Since 
 
 ![Sharlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crackmindedsk&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
 
+## Git commit skyline
+https://skyline.github.com/crackmindedsk/2021
+
