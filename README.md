@@ -80,11 +80,24 @@ In my IV sem of B.Tech. Computer Science & Information Technology Degree. Since 
             alt="Android" width="40" height="40" /> </a>
 </p>
 
-</br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crackmindedsk&layout=compact&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
+</br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crackmindedsk&layout=compact&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=fff&title_color=00DCA8)
 
-![Sharlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crackmindedsk&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Crackmindedsk&show_icons=true&bg_color=fff&hide_border=true&count_private=true"
+            alt="Crackmindedsk's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Crackmindedsk&hide_border=true&bg_color=101013"
+            alt="Crackmindedsk's Github commit streak">
+    </a>
+</div>
 
+<!-- ![Sharlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crackmindedsk&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
+ -->
 ## Git commit skyline
 https://skyline.github.com/crackmindedsk/2020
-https://skyline.github.com/crackmindedsk/2021
+<br>https://skyline.github.com/crackmindedsk/2021
+
+
 
