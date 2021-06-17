@@ -1,4 +1,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> I am Sharlene Kumbhar (also known as Crackmindedsk) </h1>
+<img align="right" width="400" style="margin:5px" src="octocat.png">
+
 
 <!--
 **Crackmindedsk/Crackmindedsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
