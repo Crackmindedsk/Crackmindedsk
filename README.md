@@ -30,6 +30,7 @@ In my IV sem of B.Tech. Computer Science & Information Technology Degree. Since 
 <li>Android Studio
 <li>Figma
 <li>Git Bash
+<li>VS Code
 
 ### Contact me:
 [![Contact](https://img.shields.io/badge/Email-shakumbhar@gmail.com-orange?labelColor=yellow)](mailto:shakumbhar@gmail.com)
