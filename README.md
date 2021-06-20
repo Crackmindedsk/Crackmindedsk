@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ### Know me:
 In my IV sem of B.Tech. Computer Science & Information Technology Degree. Since 11th coding in Cpp language. Started my coding journey from ***Hackerrank*** then tried many new things after that. Explored things like Competitive Programming, Web development, Ui/Ux design. After all this decided to settle for Android App Development. 
 </br>
+https://t.me/android_development_app
 
 ### Familiar with:
 <li>Windows
