@@ -96,6 +96,8 @@ https://t.me/android_development_app
     </a>
 </div>
     
+<img src="https://activity-graph.herokuapp.com/graph?username=Crackmindedsk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />    
+    
  </br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crackmindedsk&hide_border=true)](https://github.com/Crackmindedsk/github-readme-stats)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crackmindedsk&layout=compact&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=fff&title_color=00DCA8)
  -->
@@ -115,6 +117,8 @@ https://skyline.github.com/crackmindedsk/2020
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crackmindedsk&theme=juicyfresh&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- <img width="300px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/lol.gif" alt="lol.gif" /> -->
+
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Crackmindedsk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /> -->
 
 
 
