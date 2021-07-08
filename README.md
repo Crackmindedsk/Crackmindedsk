@@ -42,20 +42,24 @@ https://t.me/android_development_app
 ### Connect with me:
 <p align="left">
     <a href="https://www.linkedin.com/in/sharlene-kumbhar-59078118b/" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sharlene Kumbhar" height="30"
+            src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sharlene Kumbhar" height="30"
             width="40" /></a>
     <a href="https://codeforces.com/profile/shakumbhar" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shakumbhar" height="30"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMsPw1fD7PkDci1KtpKZDcdQM3-Z43eEDzurP1O1O4XyO9pDI-XY7VxumyF5cLbjo7sdA&usqp=CAU" alt="shakumbhar" height="30"
             width="40" /></a>
     <a href="https://www.hackerrank.com/sharyuhkumbhar" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sharyuhkumbhar" height="30"
+            src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="sharyuhkumbhar" height="30"
             width="40" /></a>
     <a href="https://leetcode.com/Sharlene_Kumbhar/" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Sharlene_Kumbhar" height="30"
+            src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Sharlene_Kumbhar" height="30"
             width="40" /></a>
     <a href="https://developers.google.com/profile/u/100251123362248964527" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Sharlene Kumbhar" height="30"
+            src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="Sharlene Kumbhar" height="30"
             width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/sharyuhkumbhar/profile" target="_blank"><img align="center"
+            src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="Sharlene Kumbhar" height="30"
+            width="40" /></a>
+
   </p>
   
 ### Languages and Tools:
@@ -119,9 +123,7 @@ https://skyline.github.com/crackmindedsk/2020
 <!-- <img width="300px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/lol.gif" alt="lol.gif" /> -->
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Crackmindedsk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /> -->
-
-
-
+<!--     https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg -->
 
 
 
