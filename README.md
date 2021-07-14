@@ -36,8 +36,9 @@ https://t.me/android_development_app
 ### Contact me:
 [![Contact](https://img.shields.io/badge/Email-shakumbhar@gmail.com-orange?labelColor=yellow)](mailto:shakumbhar@gmail.com)
 ### Social Life:
-[![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/crackmindedsk/) [![Facebook](https://img.shields.io/badge/Facebook-Send%20me%20a%20message-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/crackmindedsk)
-[![Telegram](https://img.shields.io/badge/Telegram-Send%20me%20a%20message-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/crackmindedsk) 
+[![Instagram](https://img.shields.io/badge/Instagram-Request%20me-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/crackmindedsk/) 
+ <br>[![Facebook](https://img.shields.io/badge/Facebook-Contact%20me-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/crackmindedsk)
+<br>[![Telegram](https://img.shields.io/badge/Telegram-Message%20me-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/crackmindedsk) 
 
 ### Connect with me:
 <p align="left">
