@@ -114,10 +114,7 @@ https://skyline.github.com/crackmindedsk/2020
 <br>https://skyline.github.com/crackmindedsk/2021
 
 <h2 align="center">Git Hub Stats</h2>
-  <!--
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aayushi-Mittal&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushi-Mittal&theme=dark&hide_border=true"/></p> 
-  -->
+  
 <p align="centre"><img src="https://metrics.lecoq.io/Crackmindedsk" alt="Github Metrics"></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crackmindedsk&theme=juicyfresh&row=1)](https://github.com/ryo-ma/github-profile-trophy)
